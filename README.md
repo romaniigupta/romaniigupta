@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Romani Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student exploring and learning new technologies to enhance skills and contribute to projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romaniigupta&label=Profile%20views&color=0e75b6&style=flat" alt="romaniigupta" /> </p>
 
